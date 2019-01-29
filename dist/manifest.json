@@ -1,0 +1,30 @@
+{
+  "chunk-vendors.css": "static/css/chunk-vendors.8225e84a.css",
+  "chunk-vendors.js": "static/js/chunk-vendors.7a92d928.js",
+  "entrypoints": {
+    "index": {
+      "css": [
+        "static/css/chunk-vendors.8225e84a.css",
+        "static/css/index.151f02ff.css"
+      ],
+      "js": [
+        "static/js/chunk-vendors.7a92d928.js",
+        "static/js/index.fdcfcacd.js"
+      ]
+    },
+    "testVant": {
+      "css": [
+        "static/css/chunk-vendors.8225e84a.css",
+        "static/css/testVant.151f02ff.css"
+      ],
+      "js": [
+        "static/js/chunk-vendors.7a92d928.js",
+        "static/js/testVant.9ccc1543.js"
+      ]
+    }
+  },
+  "index.css": "static/css/index.151f02ff.css",
+  "index.js": "static/js/index.fdcfcacd.js",
+  "testVant.css": "static/css/testVant.151f02ff.css",
+  "testVant.js": "static/js/testVant.9ccc1543.js"
+}
